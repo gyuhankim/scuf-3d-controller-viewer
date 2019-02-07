@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 90%;
+  margin: auto;
+}
+
+.logo-container {
+  width: 90%;
+  text-align: center;
+}
+
+.logo {
+  width: 50%;
+}
