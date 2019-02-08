@@ -2,5 +2,8 @@ body {
   margin: 0;
   padding: 0;
   background-color: #1c1525;
+  font-family: "DINNextW01-Regular", Helvetica;
+  color: white;
+  font-size: 16px;
 }
 
